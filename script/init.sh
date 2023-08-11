@@ -9,4 +9,4 @@ cmake ..
 echo  "make your file"
 make
 echo "list build directory"
-ll
+ls -al
