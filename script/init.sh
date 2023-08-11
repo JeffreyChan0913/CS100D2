@@ -8,3 +8,5 @@ echo  "cmaking your file"
 cmake ..
 echo  "make your file"
 make
+echo "copy self destory file to .."
+cp selfDestory.sh ~/
